@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/safemoondice/static/css/main.e6514737.chunk.css",
+    "main.js": "/safemoondice/static/js/main.fa2bafa7.chunk.js",
+    "main.js.map": "/safemoondice/static/js/main.fa2bafa7.chunk.js.map",
+    "runtime-main.js": "/safemoondice/static/js/runtime-main.73fffa39.js",
+    "runtime-main.js.map": "/safemoondice/static/js/runtime-main.73fffa39.js.map",
+    "static/js/2.924b1de5.chunk.js": "/safemoondice/static/js/2.924b1de5.chunk.js",
+    "static/js/2.924b1de5.chunk.js.map": "/safemoondice/static/js/2.924b1de5.chunk.js.map",
+    "static/js/3.83e2447a.chunk.js": "/safemoondice/static/js/3.83e2447a.chunk.js",
+    "static/js/3.83e2447a.chunk.js.map": "/safemoondice/static/js/3.83e2447a.chunk.js.map",
+    "index.html": "/safemoondice/index.html",
+    "service-worker.js": "/safemoondice/service-worker.js",
+    "service-worker.js.map": "/safemoondice/service-worker.js.map",
+    "static/css/main.e6514737.chunk.css.map": "/safemoondice/static/css/main.e6514737.chunk.css.map",
+    "static/js/2.924b1de5.chunk.js.LICENSE.txt": "/safemoondice/static/js/2.924b1de5.chunk.js.LICENSE.txt",
+    "static/media/payout.367b4853.png": "/safemoondice/static/media/payout.367b4853.png",
+    "static/media/toolkit.css": "/safemoondice/static/media/toolkit-entypo.bb16a4d7.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73fffa39.js",
+    "static/js/2.924b1de5.chunk.js",
+    "static/css/main.e6514737.chunk.css",
+    "static/js/main.fa2bafa7.chunk.js"
+  ]
+}
